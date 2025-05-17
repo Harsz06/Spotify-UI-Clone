@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Spotify-UI-Clone
 Spotify Clone Project
 This project is a Spotify-inspired music player interface, created using HTML and CSS. It mimics the sleek design and functionality of the popular music streaming platform. The clone includes the following features:
 
